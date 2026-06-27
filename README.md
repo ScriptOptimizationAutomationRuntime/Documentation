@@ -1,0 +1,2 @@
+# soar-core
+core
